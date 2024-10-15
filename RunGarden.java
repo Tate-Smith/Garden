@@ -1,8 +1,4 @@
 /*
- * Author: Tate Smith
- * Class: CSC210
- * Project: RunGarden
- * 
  * This project uses 6 class files, with 4 of them inheriting
  * from the parent class plant. These classes implement specific types
  * of plants, that are used to create a garden, and all the functions
